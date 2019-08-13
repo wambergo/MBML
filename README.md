@@ -1,3 +1,3 @@
 # MBML
 
-![Screenshot](lamela2.png)
+![Screenshot](lamela.jpg)
