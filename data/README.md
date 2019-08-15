@@ -1,4 +1,6 @@
-# Implementations
+# Data
+
+Data from the Portuguese Liga NOS (614 matches), the English Premier League (762 matches) and the Italian Serie A (762 matches). That amounts to 2 full seasons in each league, the 2017/2018 and 2018/2019 seasons.
 
 xxx_clean.csv: contains only the relevant features used in the analysis.
 
