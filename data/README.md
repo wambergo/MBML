@@ -8,6 +8,7 @@ xxx_clean.csv: contains only the relevant features used in the analysis.
 Div = League Division
 
 Date = Match Date (dd/mm/yy)
+
 HomeTeam = Home Team
 
 AwayTeam = Away Team
